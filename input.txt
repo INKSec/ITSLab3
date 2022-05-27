@@ -1,0 +1,15 @@
+This chapter has looked at cyber strategies, their necessity, and different strategies 
+that can be used when developing them. The key concern in most cyber strategies 
+is security. Cyber strategies are essential because they move organizations away 
+from assumptions, help centralize decision making about cybersecurity, provide 
+details about the tactics employed towards dealing with cybersecurity, give a longterm commitment to security, and simplify the complexities of cybersecurity. The 
+chapter has looked at the two main approaches used in writing cyber strategies; the 
+attack and defense standpoints.
+When written from the attack perspective, cyber strategies focus on the security 
+testing techniques that will be used to find and fix security vulnerabilities. When 
+written from a defense (Blue Team) perspective, cyber strategies look at how best to 
+defend an organization. The chapter has explained the two main defense strategies; 
+defense in depth and defense in breadth. Defense in depth focuses on applying 
+multiple and redundant security tools, while defense in breadth aims at mitigating 
+attacks at the different layers of the OSI model. An organization can opt to use 
+either or both of these in the quest to improve its cybersecurity posture
